@@ -7,7 +7,7 @@ contents
 # reflection
 ## 6/30/2017
 contents
-
+Today I learned how to make my own website with the Atom software. The Fun part was putting a video from Atom into Github. Also it was fun to learn from my mistakes. I also used trial and error to figure out what I did wrong and how to fix it. I can't wait to learn about CSS and JAVA!
 ---
 
 # reflection
