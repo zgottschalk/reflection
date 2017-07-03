@@ -15,3 +15,7 @@ Today I learned how to make my own website with the Atom software. The Fun part 
 contents
 I learned about Ram and what it is for. I learned what not to do on the internet. I also learned about how a circuit transmits information to othe circuits. I even learned about the different parts of a computer. It was also interesting to see all the maps and displays.
 ---
+# reflection
+## 7/3/2017
+contents
+I have learned about CSS coding and how to make a website with it. I also learned that it's slow but rewarding. It is also iteresting to figure out my mistakes aand fix them. The most annoying part is know when and where to insert your codes. These mistakes can be drastic or even unfixable. I was very fustrated until I fixed it.
