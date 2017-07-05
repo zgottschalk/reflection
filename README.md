@@ -19,3 +19,8 @@ I learned about Ram and what it is for. I learned what not to do on the internet
 ## 7/3/2017
 contents
 I have learned about CSS coding and how to make a website with it. I also learned that it's slow but rewarding. It is also iteresting to figure out my mistakes aand fix them. The most annoying part is know when and where to insert your codes. These mistakes can be drastic or even unfixable. I was very fustrated until I fixed it.
+---
+# reflection
+## 7/5/2017
+contents
+Today I updated my website . it looks amazing. I created links to other ebsites I made. It was hard to fix my mistake, because it wasn't easy to find most of my codes. In all I feel that It was full of rewards. I made a whole shopping Website with lots of content.
