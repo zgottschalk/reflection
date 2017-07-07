@@ -1,4 +1,11 @@
 # reflection
+## 7/7/2017
+contents
+Today I made a iteractive pokemon intro. most of my mistakes were about the simplest of details. The codes were not in python format which caused so many errors. we also learned about lists and how to used by almost all programmers. It makes so much more sence now that I know what I'm doing. I also learned that putting a # can make the computer ignore the line of code it is place in. It is important that You don't overuse #'s because it can ruin your codes and program.
+
+
+
+# reflection
 ## 7/6/2017
 contents
 Today I learned how to work with python and its coding language. It is difficult to spot mistakes. It was hard to reach my goals but I figured it out at the last ten minutes. Its mostly used for programing rather than website building. I spent all night working on my coding and it payed off in class even though I struggled with it. There are variables in python just like math. It can be broken and can also figure out complex math problems. We programed a interactive program asking for names and responses# reflection
