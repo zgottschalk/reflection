@@ -1,4 +1,9 @@
 # reflection
+## 7/10/2017
+contents
+Today I learned many forms of anger towards my computer while struggling to figure out how to make a interactive dictionary. I also finished my pokemon go program which felt great until I had to make another program. It is very fusterating to figure out what i did wrong or when i should insert codes into our program. My website was not finished on time because i could not commit my work before midnight because i got busted by the nightguard. This did not affect me greatly because There are many other projects. I learned about quotes and how a user can answer coded questions. It is also possible to interact with your program and find specific lists within lists.
+---
+# reflection
 ## 7/7/2017
 contents
 Today I made a iteractive pokemon intro. most of my mistakes were about the simplest of details. The codes were not in python format which caused so many errors. we also learned about lists and how to used by almost all programmers. It makes so much more sence now that I know what I'm doing. I also learned that putting a # can make the computer ignore the line of code it is place in. It is important that You don't overuse #'s because it can ruin your codes and program.
