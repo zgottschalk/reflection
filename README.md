@@ -1,5 +1,10 @@
+
 # reflection
-## 7/10/2017
+## 7/11/2017
+contents
+  Today we worked some more on our pokemon project. I got fustrated with having to spend almost two hours researching how to make my script scroll across my screen. I still have not found out how but I Have still got an A on it. I also learned about coditionals or if statements. We also made a program that allows a person to insert a military time and it converts that input to civilian time## 
+ # reflection 
+  7/10/2017
 contents
 Today I learned many forms of anger towards my computer while struggling to figure out how to make a interactive dictionary. I also finished my pokemon go program which felt great until I had to make another program. It is very fusterating to figure out what i did wrong or when i should insert codes into our program. My website was not finished on time because i could not commit my work before midnight because i got busted by the nightguard. This did not affect me greatly because There are many other projects. I learned about quotes and how a user can answer coded questions. It is also possible to interact with your program and find specific lists within lists.
 ---
