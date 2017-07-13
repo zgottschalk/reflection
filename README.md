@@ -40,4 +40,9 @@ Today I learned how to make my own website with the Atom software. The Fun part 
 ## 6/29/2017
 contents
 I learned about Ram and what it is for. I learned what not to do on the internet. I also learned about how a circuit transmits information to othe circuits. I even learned about the different parts of a computer. It was also interesting to see all the maps and displays.
+
+# reflection
+## 7/11/2017
+contents
+Today I completed my military time program and turned numbers counting down to numbers counting up. Now that was fustrating but very rewarding. I also learned about looping. Looping can make codes repeat for internity or by pressing control c.
 ---
