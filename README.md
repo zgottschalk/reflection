@@ -46,3 +46,7 @@ I learned about Ram and what it is for. I learned what not to do on the internet
 contents
 Today I completed my military time program and turned numbers counting down to numbers counting up. Now that was fustrating but very rewarding. I also learned about looping. Looping can make codes repeat for internity or by pressing control c.
 ---
+# reflection
+## 7/13/2017
+contents
+Today I took so much time and effort to solve a problem and I still couldn't solve it. It was about creating a looping program that you can interact with. It was absolutely infuriating! The feeling of not solveing a problem is very sad and makes you feel incapable of succeed in life. We also learned about fiberoptic.
