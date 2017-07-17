@@ -50,3 +50,8 @@ Today I completed my military time program and turned numbers counting down to n
 ## 7/13/2017
 contents
 Today I took so much time and effort to solve a problem and I still couldn't solve it. It was about creating a looping program that you can interact with. It was absolutely infuriating! The feeling of not solveing a problem is very sad and makes you feel incapable of succeed in life. We also learned about fiberoptic.
+
+# reflection
+## 7/17/2017
+contents
+  I finally got further in my dots and boxes program wchich was soooo hard to do. I also learned more about loops and how to use them. I also learned that you can't fool Mr. Gold. I also learned how to use varios variables to not confuse python. This can be a problem if you have bad variable names. It can affect you later on making your code much more complicated.
