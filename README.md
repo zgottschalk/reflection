@@ -1,4 +1,8 @@
-
+# reflection
+## 7/18/2017
+contents
+Today I continued to work on my while loop program and also worked on codeAcademy.com to practice my python codes. I learned on codeacademy how to save and commit, about booleans, and how to make variables.
+---
 # reflection
 ## 7/11/2017
 contents
@@ -12,9 +16,7 @@ Today I learned many forms of anger towards my computer while struggling to figu
 ## 7/7/2017
 contents
 Today I made a iteractive pokemon intro. most of my mistakes were about the simplest of details. The codes were not in python format which caused so many errors. we also learned about lists and how to used by almost all programmers. It makes so much more sence now that I know what I'm doing. I also learned that putting a # can make the computer ignore the line of code it is place in. It is important that You don't overuse #'s because it can ruin your codes and program.
-
-
-
+---
 # reflection
 ## 7/6/2017
 contents
@@ -35,12 +37,11 @@ I have learned about CSS coding and how to make a website with it. I also learne
 contents
 Today I learned how to make my own website with the Atom software. The Fun part was putting a video from Atom into Github. Also it was fun to learn from my mistakes. I also used trial and error to figure out what I did wrong and how to fix it. I can't wait to learn about CSS and JAVA!
 ---
-
 # reflection
 ## 6/29/2017
 contents
 I learned about Ram and what it is for. I learned what not to do on the internet. I also learned about how a circuit transmits information to othe circuits. I even learned about the different parts of a computer. It was also interesting to see all the maps and displays.
-
+---
 # reflection
 ## 7/11/2017
 contents
@@ -55,3 +56,4 @@ Today I took so much time and effort to solve a problem and I still couldn't sol
 ## 7/17/2017
 contents
   I finally got further in my dots and boxes program wchich was soooo hard to do. I also learned more about loops and how to use them. I also learned that you can't fool Mr. Gold. I also learned how to use varios variables to not confuse python. This can be a problem if you have bad variable names. It can affect you later on making your code much more complicated.
+
