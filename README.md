@@ -1,4 +1,10 @@
 # reflection
+## 7/20/2017
+contents
+  I didn't learn anything new today.
+
+
+# reflection
 ## 7/19/2017
 contents
   I learned about quantum computing and that it can work out super hard problems like getting the closest degree to absolut zero. It came up with 0.015 K! I also got a bit farther on the codeacademy python class. 
