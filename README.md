@@ -1,4 +1,9 @@
 # reflection
+## 7/17/2017
+contents
+Today added music and a background to my game. I feel really acomplished and it is r3eally easy to understand coding now that mr gold made me learn by myself anjd i hate that he was right. I am still working on adding a healthn bar and falling boulders to my game. 
+
+# reflection
 ## 7/24/2017
 contents
 Today we started on our games on pygame. pygame is such a easy to use program its acctually surprising. It is a lot of fun and since i now know more about coding i can learn more and complete tasks much more easily. Im thinking of making a game where you have to dodge falling boulders and apps/emojis. I changed the backround to a image and changed my characters clothes. It still needs a lot more work to work properly. I learned about sprites and how they contribute to my code.
