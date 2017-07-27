@@ -1,4 +1,9 @@
 # reflection
+## 7/27/2017
+contents
+today i fixed my code and made it so you can add more dirt layers and each time a new song plays. Its still a work in practice but it will work. It has to for me to get a good grade. It was fustrating to figure out what i did wrong at first but i did it and can finally finish my game.
+
+# reflection
 ## 7/17/2017
 contents
 Today added music and a background to my game. I feel really acomplished and it is r3eally easy to understand coding now that mr gold made me learn by myself anjd i hate that he was right. I am still working on adding a healthn bar and falling boulders to my game. 
