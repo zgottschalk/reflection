@@ -1,4 +1,11 @@
 # reflection
+## 7/28/2017
+contents
+Over the past weeks I have learned [CSS, Html,javascript,binary code, binary numbers, binary letters, python, pygame, how to make a clock turn military time to civilian time, and vice versa.] I also made a python box program. I made a game that adds new layers with music by moving left to right.
+
+
+
+# reflection
 ## 7/27/2017
 contents
 today i fixed my code and made it so you can add more dirt layers and each time a new song plays. Its still a work in practice but it will work. It has to for me to get a good grade. It was fustrating to figure out what i did wrong at first but i did it and can finally finish my game.
